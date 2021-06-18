@@ -1,3 +1,4 @@
 HTTP1.1 uses plain text
 HTTP2 uses binary coding
 HTTP2 user multiplexing and pipeling etc
+HTTP2 has faster response time beacuse of its compression of data including headers
