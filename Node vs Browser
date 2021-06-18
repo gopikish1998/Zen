@@ -1,0 +1,4 @@
+Browser JS deals with the frontend part which is on client side
+Node JS deals with the backend part which deals with Server
+Objects like "Window", "Document" etc are not found in Node JS which are of no significance there
+Node has "require", "global" etc objects for specific purpose.
