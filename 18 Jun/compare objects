@@ -1,0 +1,11 @@
+var obj1 = { name: "Person 1", age:5 };
+var obj2 = { age:5, name: "Person 1" };
+for(var i in obj1){
+    for(var j in obj2){
+        if(obj1[i].toString==obj2[j].toString){
+            if(obj1[i]==obj2[j]){
+                console.log(i,":",obj1[i])
+            }
+        }
+    }
+}
